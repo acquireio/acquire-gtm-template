@@ -1,5 +1,5 @@
 homepage: "https://acquire.io/",
 documentation: "https://github.com/acquireio/acquire-gtm-template",
 versions:
-  - sha:
+  - sha: b71effc60d127adbdc0586bb608ed7f2fe71555d
     changeNotes: First Version
