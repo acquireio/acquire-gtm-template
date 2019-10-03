@@ -101,8 +101,7 @@ const setInWindow = require('setInWindow');
 const encodeUri = require('encodeUri');
 const logToConsole = require('logToConsole');
 const accountId = data.accountId;
-const encodeUrl = encodeUri(accountId);
-const url = 'https://s.acquire.io/a-'+encodeUrl+'/init.js';
+const url = 'https://s.acquire.io/a-'+accountId+'/init.js';
 const onSuccess = () => {
   data.gtmOnSuccess();
 };
