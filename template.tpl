@@ -2,7 +2,7 @@
 
 {
   "displayName": "Acquire",
-  "description": "Acquire is the fastest, most effective way to interact with customers across web and mobile.",
+  "description": "Acquire is the fastest, most effective way to interact with customers across web and mobile. Engage, nurture, onboard, and support your customers with Acquire's real time customer engagement tools.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
