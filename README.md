@@ -1,8 +1,7 @@
 # Acquire GTM Template
 
 ## How to add GTM Template in Workspace?
-
-First Open Google Tag Manager Dashboard in your workspace and Click On **'Template'** menu. 
+First Open Google Tag Manager Dashboard in your workspace and Click On the 'Template' menu.
 
 ![Google Tag Manager](https://acquire.io/wp-content/uploads/2019/10/tag-manager-1-100.jpg)
 
@@ -10,7 +9,7 @@ Tag Templates section in click on **'Search Gallery'**.
 
 ![Google Tag Manager](https://acquire.io/wp-content/uploads/2019/10/tag-manager-2-100.jpg)
 
-Gallery apps list in find and choose **Acquire** App and click on **'Add Workspace'** button. 
+Gallery apps list in find and choose to Acquire App and click on the 'Add Workspace' button. 
 
 ![Google Tag Manager](https://acquire.io/wp-content/uploads/2019/10/tag-manager-3-100.jpg)
 
