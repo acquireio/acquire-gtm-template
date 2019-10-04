@@ -1,6 +1,6 @@
 # Acquire GTM Template
 
-## How to add GTM Tepmlate in Workspace?
+## How to add GTM Template in Workspace?
 
 First Open Google Tag Manager Dashboard in your workspace and Click On **'Template'** menu. 
 
